@@ -74,7 +74,7 @@ with mp_hands.Hands(
       mydraw="./mydraw.png"
       p1="./fire.png"
       p2="./v.png"
-      p3="./w.png"
+      p3="./circleq.png"
 
       runAllImageSimilaryFun(mydraw,p1)
       runAllImageSimilaryFun(mydraw,p2)
